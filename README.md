@@ -102,7 +102,7 @@ As simple as that, we no longer have to individually apply headers to every sing
 `{ "occupations": ["Thwarting Buggs Bunny", "Tomfoolery"] }`
 
 ###### `GET /occupations/latest`
-- returns: The last/current job you have/had. The occupations will be stored in an array, but this method returns the last item of the array in a JSON reponse: 
+- returns: The last/current job you have/had. The occupations will be stored in an array, but this method returns the last item of the array in a JSON response: 
 `{ "latestOccupation": "Tomfoolery" }`
 
 ###### `GET /hobbies`
